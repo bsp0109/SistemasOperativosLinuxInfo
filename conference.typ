@@ -294,16 +294,19 @@ el cual significa "/home/user/Downloads", o más comúmente, el directorio de De
 
 == Tipo de investigación
 
-El modelo de estudio de la presente investigación acerca de los sistemas operativos Linux es de tipo exploratorio e investigativo, ya que el enfoque al cual queremos llevar, es una
-introducción completa a las funciones y características de dicho sistema operativo, para que nuevos usuarios sin ninguna experiencia puedan comprender la utilidad de sistemas operativos
-alternativos, para que así, los usuarios tengan un abanico  de posibilidades al momento de adquirir un equipo informático.
+El modelo de estudio de la presente investigación acerca de los sistemas operativos Linux es de tipo exploratorio e investigativo, ya que el enfoque de la misma, es una
+introducción a las funciones y características de dicho sistema operativo, para que nuevos usuarios sin ninguna experiencia puedan comprender la utilidad de sistemas operativos
+alternativos, para que así, los usuarios tengan un abanico de posibilidades al momento de adquirir un equipo informático.
 
 == Población o Muestra
 
-Para este proyecto hemos decidido no llevar a cabo ningún tipo de censo o muestreo probabilístico, ya que el propósito es explorar y sintetizar conceptos ya antes explorados por otras 
-personas, con el fin de educar a las personas con menos conocimiento al respecto
+La población se caracteriza por personas apróximadamente entre los 18 y 30 años de edad y con conocimientos variados en el área
+de la tecnología.
 
 == Descripción de los instrumentos
+
+- #link("https://forms.gle/QWis7S4mNCnhghNv5")[Formulario de Google Forms] acerca del conocimiento sobre GNU+Linux de la población
+
 - Se utilizará una computadora o máquina virtual para la instalación de una distribución de Linux minimalista, con el propósito de explicar el uso de cada uno de los programas de manera individual.
  
 - Se utilizará la distribución de Linux ArchLinux, disponible en https://archlinux.org debido a su extremo minimalismo, el cual nos permite explicar paso por paso la instalación de la misma,
@@ -314,13 +317,15 @@ personas, con el fin de educar a las personas con menos conocimiento al respecto
 
 ==  Tratamiento de la información
 
+La información será graficada en el siguiente capítulo para analizar que tanto conocimiento posee la población acerca del tema principal del proyecto, justificando la necesidad del mismo.
+
 Para la ejemplificación de la información se realizará una instalación de linux en un dispositivo físico o virtual, con el propósito de explicar el uso de la mayoría
 de elementos instalados y llegar a 2 fases importantes:
 
 + Sistema operativo listo para uso en servidores.
 + Sistema operativo listo para uso diario por un usuario final.
 
-Con esto se quiere mostrar a la población dirigida, los beneficios o accesibilidades que ofrecen los sistemas operativos basados en Linux así como también el conocimiento sobre cómo estos son instalados,
+Con esto se desea mostrar a la población dirigida, los beneficios o accesibilidades que ofrecen los sistemas operativos basados en Linux así como también el conocimiento sobre cómo estos son instalados,
 bajo qué requerimientos y en específico la manera adecuada y más segura de instalarlos.
 
 
