@@ -317,7 +317,7 @@ de la tecnología.
 
 ==  Tratamiento de la información
 
-La información será graficada en el siguiente capítulo para analizar que tanto conocimiento posee la población acerca del tema principal del proyecto, justificando la necesidad del mismo.
+La información será graficada en @results para analizar que tanto conocimiento posee la población acerca del tema principal del proyecto, justificando la necesidad del mismo.
 
 Para la ejemplificación de la información se realizará una instalación de linux en un dispositivo físico o virtual, con el propósito de explicar el uso de la mayoría
 de elementos instalados y llegar a 2 fases importantes:
@@ -329,7 +329,7 @@ Con esto se desea mostrar a la población dirigida, los beneficios o accesibilid
 bajo qué requerimientos y en específico la manera adecuada y más segura de instalarlos.
 
 
-= Result Analysis
+= Result Analysis <results>
 
 
 = Recommendations and Conclusions
