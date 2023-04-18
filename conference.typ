@@ -145,6 +145,7 @@ Es aquel que aporta herramientas y utilidades de apoyo para el mantenimiento del
 los controladores de dispositivos (pequeños programas que permiten la conexión satisfactoria del ordenador con dispositivos de entrada y salida), 
 etc @carmonaSistemaOperativoBusqueda2021.
 
+
 === Software de Programación
 Conjunto de programas que permiten a los desarrolladores la creación de estos, haciendo uso de diferentes lenguajes (como lo son C, C++, C\#, F\#,
 Haskell, Python, etc.). Entre ellos, destacan los depuradores y enlazadores, entre otros @carmonaSistemaOperativoBusqueda2021.
