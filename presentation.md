@@ -457,6 +457,20 @@ El instalador se ve así:
 - Cuando utilizas un dispositivo con Linux, este es tu propiedad, al igual que el software que estas utilizando.
 - Si Microsoft o Apple no se alinean con tus valores, puedes optar por Linux, como lo hizo Valve, con su SteamDeck.
 
+---
+
+# Capturas de Pantalla
+
+---
+
+![bg fit](media/busyGnome.png)
+
+---
+
+<video width="320" height="240" controls>
+    <source src="media/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ---
 
