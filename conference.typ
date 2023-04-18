@@ -301,14 +301,11 @@ alternativos, para que así, los usuarios tengan un abanico de posibilidades al 
 
 == Población o Muestra
 
-La población se caracteriza por personas apróximadamente entre los 18 y 30 años de edad y con conocimientos variados en el área
-de la tecnología.
+Para este proyecto, hemos optado por no hacer ningún tipo de encuesta, ya que la mayoría de la información está disponible públicamente.
 
 == Descripción de los instrumentos
 
-- #link("https://forms.gle/QWis7S4mNCnhghNv5")[Formulario de Google Forms] acerca del conocimiento sobre GNU+Linux de la población
-
-- Se utilizará una computadora o máquina virtual para la instalación de una distribución de Linux minimalista, con el propósito de explicar el uso de cada uno de los programas de manera individual.
+- Se utilizará una computadora o máquina virtual para la instalación de una distribución de un Linux minimalista, con el propósito de explicar el uso de cada uno de los programas de manera individual.
  
 - Se utilizará la distribución de Linux ArchLinux, disponible en https://archlinux.org debido a su extremo minimalismo, el cual nos permite explicar paso por paso la instalación de la misma,
   y el uso de cada componente.
@@ -317,8 +314,6 @@ de la tecnología.
 
 
 ==  Tratamiento de la información
-
-La información será graficada en @results para analizar que tanto conocimiento posee la población acerca del tema principal del proyecto, justificando la necesidad del mismo.
 
 Para la ejemplificación de la información se realizará una instalación de linux en un dispositivo físico o virtual, con el propósito de explicar el uso de la mayoría
 de elementos instalados y llegar a 2 fases importantes:
@@ -330,7 +325,58 @@ Con esto se desea mostrar a la población dirigida, los beneficios o accesibilid
 bajo qué requerimientos y en específico la manera adecuada y más segura de instalarlos.
 
 
-= Result Analysis <results>
+= Interpretación y Análisis de Resultados
+
+Con base en la información recopilada sobre Linux, se interpreta que la cantidad de usuarios o personas con conocimiento del mismo son limitadas, especialmente en ámbitos no relacionados con el mundo
+laboral.
+
+Debido a esto, se interpreta que es necesario educar a la población universitaria del área de Informática en el tema, ya que incluso en ésta área, se aprecia un nivel bastante elevado de ignorancia
+en el tema. Exponer este tema y su importancia es sumamente vital, ya que muchos estudiantes se tendrán que enfrentar a entornos GNU+Linux o Linux en general en algún momento de sus vidas laborales,
+exponiendo esto de antemano, se asegura que los estuidantes generen un interés en el tema y por lo tanto tengan más aptitud a la hora de necesitar interactuar con los sistemas basados en Linux.
 
 
-= Recommendations and Conclusions
+= Conclusiones y Recomendaciones
+
+== Conclusiones
+
+Para entrar en la etapa de finalización del presente proyecto, en base a la información adquirida y recolectada sobre sistemas operativos Linux, se presentan las siguientes conclusiones enlazadas
+a los objetivos planteados anteriormente:
+
+Como conclusión acerca de la instalación de Linux en un dispositivo inteligente compatible, el usuario puede instalar una distribución de Linux directamente en el dispositivo o utilizar una imagen
+personalizada de Linux que se adapte a las necesidades específicas requeridas por el usuario y el dispositivo, para dispositivos móviles como smartphones y tabletas, existen distribuciones de Linux
+diseñadas específicamente para estos, como Ubuntu Touch y LineageOS, que pueden ser instalados en después de desbloquear el bootloader y seguir los pasos adecuados. Instalar Linux en un dispositivo
+inteligente puede ser un proceso técnico y complejo, pero puede proporcionar a los usuarios mayores niveles de personalización, seguridad y control sobre su dispositivo, sin embargo, es importante 
+tener en cuenta que instalar Linux puede anular la garantía del fabricante y puede no ser adecuado para todos los usuarios.
+
+En base al objetivo de instruir sobre el funcionamiento de sistemas operativos basados en Linux,se puede concluir que es una tarea valiosa y necesaria en la actualidad, ya que son ampliamente 
+utilizados en servidores, dispositivos móviles y sistemas integrados, lo cual hace que estén ganando popularidad en el escritorio y en los hogares debido a su estabilidad, seguridad y flexibilidad.
+Al enseñar sobre el funcionamiento de estos sistemas operativos, se pueden proporcionar a los usuarios las habilidades necesarias para administrar, configurar y solucionar problemas en sistemas Linux,
+lo que les permite aprovechar al máximo las capacidades del mismo. Además, al conocer el funcionamiento de Linux, los usuarios pueden comprender mejor cómo funcionan los sistemas informáticos en general
+y desarrollar habilidades valiosas en áreas como la programación, la seguridad informática y la administración de servidores.
+
+Entre las ventajas que puede ofrecer un sistema operativo complejo se encuentran la gran cantidad de herramientas y aplicaciones disponibles para su uso, la alta estabilidad y seguridad del sistema, 
+la flexibilidad y personalización que ofrece, la gratuidad y el acceso al código fuente, lo que permite a los usuarios modificar y adaptar el sistema a sus necesidades, sin embargo, también existen 
+desventajas asociadas al uso de sistemas operativos complejos como Linux, entre las que se incluyen la curva de aprendizaje necesaria para utilizar el sistema, la falta de soporte técnico y documentación
+en algunos casos, la posible incompatibilidad de ciertos programas y la dificultad para encontrar software especializado para algunas tareas, por lo general, la elección de un sistema operativo depende
+de las necesidades y habilidades del usuario, así como de los recursos y requisitos de la aplicación o dispositivo en el que se utilizará, si bien Linux puede ser más complejo que otros sistemas operativos,
+su flexibilidad y seguridad lo hacen una opción atractiva para muchos usuarios.
+
+== Recomendaciones
+
+A Continuación se brinda una lista de recomendaciones para todo aquel que capta su atención el presente proyecto de investigación sobre sistemas operativos basados en Linux y estén dispuestos a darle una 
+oportunidad de utilizar esta herramienta compleja pero tan amplia en ventajas y configuración.
+
++ Aprender los conceptos básicos: lo primero que debes hacer es conocer los conceptos básicos de los sistemas operativos y cómo funcionan. También es importante que sepas qué es GNU y cómo se relaciona con 
+  Linux.
++ Elegir una distribución de Linux: existen muchas distribuciones de Linux disponibles. Si eres nuevo en este mundo, te recomiendo que elijas una distribución que sea fácil de usar y de configurar, como 
+  Ubuntu o Linux Mint.
++ Instalar Linux: una vez que hayas elegido una distribución de Linux, necesitarás instalarla en tu computadora. Asegúrate de seguir las instrucciones cuidadosamente y hacer una copia de seguridad de tus 
+  datos antes de comenzar.
++ Conocer los componentes del sistema operativo: familiarízate con los diferentes componentes del sistema operativo, como el kernel, el shell, el gestor de ventanas, etc.
++ Utilizar la terminal: la terminal es una herramienta poderosa que te permitirá hacer muchas cosas en Linux. Aprender algunos comandos básicos te ayudará a trabajar de manera más eficiente.
++ Explorar las aplicaciones disponibles: hay muchas aplicaciones disponibles en Linux que te permitirán hacer todo lo que necesitas en tu vida diaria. Asegúrate de explorar y encontrar las aplicaciones 
+  que mejor se adapten a tus necesidades.
++ Conectar con la comunidad: Linux cuenta con una comunidad muy activa y colaborativa. Puedes aprender mucho de otros usuarios, participando en foros, grupos de discusión, y eventos de la comunidad.
+
+Cabe recalcar que los sistemas operativos son una parte fundamental de la tecnología que utilizamos en nuestra vida diaria, aprender sobre ellos y cómo funcionan puede ayudar a los usuarios en aprovechar
+al máximo la tecnología que hay disponible en el entorno informático y tomar decisiones más corroboradas al elegir qué dispositivos y aplicaciones desea utilizar y para qué propósito serán utilizados.
