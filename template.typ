@@ -139,7 +139,7 @@
 
   // Start two column mode and configure paragraph properties.
   show: columns.with(2, gutter: 12pt)
-  set par(justify: true, first-line-indent: 1em)
+  set par(justify: true, first-line-indent: 0.7cm)
   show par: set block(spacing: 0.65em)
 
   // Display abstract and index terms.
